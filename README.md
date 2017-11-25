@@ -2,4 +2,4 @@
 
 More Example About An App Using Stepper
 
-![](Example)
+![](Example.png)
